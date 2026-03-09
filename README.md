@@ -64,28 +64,6 @@ Este proyecto implementa varios conceptos de **Programación Orientada a Objetos
 
 ---
 
-##  Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tuusuario/umb-league-manager.git
-```
-
-2. Entrar al proyecto:
-
-```bash
-cd umb-league-manager
-```
-
-3. Ejecutar el programa:
-
-```bash
-python umb_league_manager.py
-```
-
----
-
 ##  Requisitos
 
 * Python 3 instalado
@@ -96,6 +74,7 @@ python umb_league_manager.py
 ##  Autor
 
 **Sebastián González**
+**Diego Lopez**
 Estudiante de Ingeniería de Software
 Universidad Manuela Beltrán
 
