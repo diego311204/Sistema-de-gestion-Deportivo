@@ -74,6 +74,7 @@ Este proyecto implementa varios conceptos de **Programación Orientada a Objetos
 ##  Autor
 
 **Sebastián González**
+
 **Diego Lopez**
 Estudiante de Ingeniería de Software
 Universidad Manuela Beltrán
